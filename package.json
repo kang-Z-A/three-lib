@@ -1,7 +1,7 @@
 {
   "name": "three-lib",
   "description": "基于three.js封装的快速启动项目",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "keywords": [
     "three.js"
   ],
