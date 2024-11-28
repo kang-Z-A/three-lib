@@ -12,7 +12,6 @@ const config = [
         file: './build/index.esm.js',
         inlineDynamicImports: true,
         format: 'es',
-        sourcemap: true,
       }
     ],
     plugins: [
