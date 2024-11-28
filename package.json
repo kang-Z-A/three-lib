@@ -1,11 +1,18 @@
 {
   "name": "three-lib",
   "description": "基于three.js封装的快速启动项目",
-  "version": "0.0.2",
+  "version": "0.0.3",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kang-Z-A/three-lib.git"
+  },
   "keywords": [
     "three.js"
   ],
-  "author": "kang-Z-A",
+  "author": {
+    "name": "kang-Z-A",
+    "url": "https://github.com/kang-Z-A"
+  },
   "email": "3064135607@qq.com",
   "license": "MIT",
   "type": "module",
